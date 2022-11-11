@@ -1,3 +1,3 @@
 Created by following Chris Courses' tutorial:
 https://www.youtube.com/watch?v=yP5DKzriqXA&
-https://byeJohn.github.io
+** https://byejohn.github.io/Pokemon-JavaScript-Game/
